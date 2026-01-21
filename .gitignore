@@ -4,7 +4,7 @@
 .LSOverride
 
 # Claude Code settings
-.claude/
+.claude/settings.local.json
 
 # IDEs and Editors
 .vscode/
